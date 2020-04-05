@@ -1,0 +1,537 @@
+2020-04-03 14:38:15,754 - WestVille -INFO - Getting the Today's Date
+2020-04-03 14:38:15,761 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 14:38:16,377 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 14:38:16,546 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 14:38:16,640 - WestVille -INFO - Creating Column 1
+2020-04-03 14:38:16,709 - WestVille -INFO - Creating Column 2
+2020-04-03 14:38:16,738 - WestVille -INFO - Initialing the WebPage
+2020-04-03 14:38:16,771 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 14:38:16,771 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 14:38:23,153 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 14:38:33,294 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 14:38:33,320 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 14:38:33,320 - WestVille -INFO - Starting to Loop
+2020-04-03 14:38:33,322 - WestVille -INFO - Validating the Item Pass
+2020-04-03 14:38:33,323 - WestVille -INFO - Validating the Item Pass
+2020-04-03 14:38:33,323 - WestVille -INFO - Validating the Item Pass
+2020-04-03 14:38:33,324 - WestVille -INFO - Validating the Item Pass
+2020-04-03 14:38:33,325 - WestVille -INFO - Validating the Item Pass
+2020-04-03 14:38:33,325 - WestVille -INFO - Validating the Item Pass
+2020-04-03 14:38:33,325 - WestVille -INFO - Validating the Item Pass
+2020-04-03 14:38:33,325 - WestVille -INFO - Validating the Item Pass
+2020-04-03 15:43:35,927 - WestVille -INFO - Getting the Today's Date
+2020-04-03 15:43:35,935 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 15:43:36,611 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 15:43:36,790 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 15:43:36,903 - WestVille -INFO - Creating Column 1
+2020-04-03 15:43:36,989 - WestVille -INFO - Creating Column 2
+2020-04-03 15:43:37,011 - WestVille -INFO - Initialing the WebPage
+2020-04-03 15:43:37,054 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 15:43:37,055 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 15:43:43,416 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 15:43:46,200 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 15:43:46,239 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 15:43:46,239 - WestVille -INFO - Starting to Loop
+2020-04-03 15:43:46,242 - WestVille -INFO - Validating the Item Pass
+2020-04-03 15:43:46,243 - WestVille -INFO - Validating the Item Pass
+2020-04-03 15:43:46,243 - WestVille -INFO - Validating the Item Pass
+2020-04-03 15:43:46,244 - WestVille -INFO - Validating the Item Pass
+2020-04-03 15:43:46,245 - WestVille -INFO - Validating the Item Pass
+2020-04-03 15:43:46,245 - WestVille -INFO - Validating the Item Pass
+2020-04-03 15:43:46,245 - WestVille -INFO - Validating the Item Pass
+2020-04-03 15:43:46,246 - WestVille -INFO - Validating the Item Pass
+2020-04-03 17:54:18,033 - WestVille -INFO - Getting the Today's Date
+2020-04-03 17:54:18,039 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 17:54:18,647 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 17:54:18,801 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 17:54:18,889 - WestVille -INFO - Creating Column 1
+2020-04-03 17:54:18,964 - WestVille -INFO - Creating Column 2
+2020-04-03 17:54:18,984 - WestVille -INFO - Initialing the WebPage
+2020-04-03 17:54:19,017 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 17:54:19,018 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 17:54:25,413 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 17:54:35,958 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 17:54:35,982 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 17:54:35,983 - WestVille -INFO - Starting to Loop
+2020-04-03 17:54:35,985 - WestVille -INFO - Validating the Item Pass
+2020-04-03 17:54:35,985 - WestVille -INFO - Validating the Item Pass
+2020-04-03 17:54:35,985 - WestVille -INFO - Validating the Item Pass
+2020-04-03 17:54:35,986 - WestVille -INFO - Validating the Item Pass
+2020-04-03 17:54:35,987 - WestVille -INFO - Validating the Item Pass
+2020-04-03 17:54:35,987 - WestVille -INFO - Validating the Item Pass
+2020-04-03 17:54:35,987 - WestVille -INFO - Validating the Item Pass
+2020-04-03 17:54:35,987 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:01:23,026 - WestVille -INFO - Getting the Today's Date
+2020-04-03 18:01:23,031 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 18:01:23,620 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 18:01:23,776 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 18:01:23,856 - WestVille -INFO - Creating Column 1
+2020-04-03 18:01:23,927 - WestVille -INFO - Creating Column 2
+2020-04-03 18:01:23,946 - WestVille -INFO - Initialing the WebPage
+2020-04-03 18:01:23,982 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 18:01:23,983 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 18:01:30,472 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 18:01:38,012 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 18:01:38,047 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 18:01:38,048 - WestVille -INFO - Starting to Loop
+2020-04-03 18:01:38,051 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:01:38,052 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:01:38,052 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:01:38,054 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:01:38,055 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:01:38,055 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:01:38,055 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:01:38,056 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:07:31,891 - WestVille -INFO - Getting the Today's Date
+2020-04-03 18:07:31,897 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 18:07:32,498 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 18:07:32,646 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 18:07:32,731 - WestVille -INFO - Creating Column 1
+2020-04-03 18:07:32,788 - WestVille -INFO - Creating Column 2
+2020-04-03 18:07:32,810 - WestVille -INFO - Initialing the WebPage
+2020-04-03 18:07:32,843 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 18:07:32,843 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 18:07:39,231 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 18:07:42,233 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 18:07:42,261 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 18:07:42,262 - WestVille -INFO - Starting to Loop
+2020-04-03 18:07:42,264 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:07:42,265 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:07:42,265 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:07:42,266 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:07:42,267 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:07:42,267 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:07:42,267 - WestVille -INFO - Validating the Item Pass
+2020-04-03 18:07:42,267 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:26:39,492 - WestVille -INFO - Getting the Today's Date
+2020-04-03 19:26:39,496 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 19:26:40,069 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 19:26:40,222 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 19:26:40,298 - WestVille -INFO - Creating Column 1
+2020-04-03 19:26:40,356 - WestVille -INFO - Creating Column 2
+2020-04-03 19:26:40,375 - WestVille -INFO - Initialing the WebPage
+2020-04-03 19:26:40,405 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 19:26:40,405 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 19:26:46,559 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 19:27:00,891 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 19:27:00,912 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 19:27:00,913 - WestVille -INFO - Starting to Loop
+2020-04-03 19:27:00,915 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:27:00,915 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:27:00,915 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:27:00,916 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:27:00,917 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:27:00,917 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:27:00,917 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:27:00,917 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:35:48,047 - WestVille -INFO - Getting the Today's Date
+2020-04-03 19:35:48,052 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 19:35:48,689 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 19:35:48,833 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 19:35:48,917 - WestVille -INFO - Creating Column 1
+2020-04-03 19:35:48,979 - WestVille -INFO - Creating Column 2
+2020-04-03 19:35:48,999 - WestVille -INFO - Initialing the WebPage
+2020-04-03 19:35:49,034 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 19:35:49,034 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 19:35:55,351 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 19:35:58,484 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 19:35:58,515 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 19:35:58,515 - WestVille -INFO - Starting to Loop
+2020-04-03 19:35:58,518 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:35:58,518 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:35:58,518 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:35:58,520 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:35:58,520 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:35:58,521 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:35:58,521 - WestVille -INFO - Validating the Item Pass
+2020-04-03 19:35:58,521 - WestVille -INFO - Validating the Item Pass
+2020-04-03 21:32:10,246 - WestVille -INFO - Getting the Today's Date
+2020-04-03 21:32:10,252 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 21:32:10,879 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 21:32:11,044 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 21:32:11,149 - WestVille -INFO - Creating Column 1
+2020-04-03 21:32:11,221 - WestVille -INFO - Creating Column 2
+2020-04-03 21:32:11,241 - WestVille -INFO - Initialing the WebPage
+2020-04-03 21:32:11,278 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 21:32:11,278 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 21:32:17,670 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 21:32:21,945 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 21:32:21,978 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 21:32:21,979 - WestVille -INFO - Starting to Loop
+2020-04-03 21:32:21,985 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 HOMEMADE GRANOLA8
+2020-04-03 21:32:21,986 - WestVille -INFO - PASSED --> KALE SALAD12 KALE SALAD12
+2020-04-03 21:32:21,987 - WestVille -INFO - PASSED --> AVOCADO TOAST13 AVOCADO TOAST13
+2020-04-03 21:32:21,988 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 WESTVILLE BURRITO13
+2020-04-03 21:32:21,989 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 VEGGIE OMELETTE12
+2020-04-03 21:32:21,989 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-03 21:32:21,990 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 FRESH SQUEEZED ORANGE JUICE6
+2020-04-03 21:32:21,991 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 FRESH BREWED ICED TEA4
+2020-04-03 21:34:16,995 - WestVille -INFO - Getting the Today's Date
+2020-04-03 21:34:17,001 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 21:34:17,626 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 21:34:17,778 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 21:34:17,867 - WestVille -INFO - Creating Column 1
+2020-04-03 21:34:17,935 - WestVille -INFO - Creating Column 2
+2020-04-03 21:34:17,955 - WestVille -INFO - Initialing the WebPage
+2020-04-03 21:34:17,987 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 21:34:17,988 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 21:34:24,096 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 21:34:29,427 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 21:34:29,453 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 21:34:29,453 - WestVille -INFO - Starting to Loop
+2020-04-03 21:34:29,456 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 HOMEMADE GRANOLA8
+2020-04-03 21:34:29,456 - WestVille -INFO - PASSED --> KALE SALAD12 KALE SALAD12
+2020-04-03 21:34:29,457 - WestVille -INFO - PASSED --> AVOCADO TOAST13 AVOCADO TOAST13
+2020-04-03 21:34:29,458 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 WESTVILLE BURRITO13
+2020-04-03 21:34:29,458 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 VEGGIE OMELETTE12
+2020-04-03 21:34:29,458 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-03 21:34:29,459 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 FRESH SQUEEZED ORANGE JUICE6
+2020-04-03 21:34:29,459 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 FRESH BREWED ICED TEA4
+2020-04-03 21:34:29,888 - WestVille -WARN - FAILED 
+2020-04-03 21:34:29,888 - WestVille -INFO - PASSED --> BLENDED MINT LEMONADE6 BLENDED MINT LEMONADE6
+2020-04-03 21:34:29,888 - WestVille -INFO - PASSED --> ARNOLD PALMER4 ARNOLD PALMER4
+2020-04-03 21:34:29,888 - WestVille -INFO - PASSED --> FRESH BREWED ICED COFFEE4 FRESH BREWED ICED COFFEE4
+2020-04-03 21:34:29,889 - WestVille -INFO - PASSED --> ICED LATTE5.5 ICED LATTE5.5
+2020-04-03 21:34:29,889 - WestVille -INFO - PASSED --> ICED CAPPUCCINO5.5 ICED CAPPUCCINO5.5
+2020-04-03 21:34:29,889 - WestVille -INFO - PASSED --> ICED CAFÉ MOCHA5.5 ICED CAFÉ MOCHA5.5
+2020-04-03 21:34:29,889 - WestVille -INFO - PASSED --> SODA3 SODA3
+2020-04-03 21:34:29,890 - WestVille -INFO - PASSED --> LURISIA WATER5/8 LURISIA WATER5/8
+2020-04-03 21:34:29,890 - WestVille -INFO - PASSED --> FRESH BREWED COFFEE3 FRESH BREWED COFFEE3
+2020-04-03 21:34:29,890 - WestVille -INFO - PASSED --> AMERICANO3.5 AMERICANO3.5
+2020-04-03 21:34:29,890 - WestVille -INFO - PASSED --> ESPRESSO / MACCHIATO3 / 3.5 ESPRESSO / MACCHIATO3 / 3.5
+2020-04-03 21:34:29,891 - WestVille -INFO - PASSED --> LATTE / CAPPUCCINO5 LATTE / CAPPUCCINO5
+2020-04-03 21:34:29,891 - WestVille -INFO - PASSED --> CAFÉ AU LAIT4 CAFÉ AU LAIT4
+2020-04-03 21:34:29,891 - WestVille -INFO - PASSED --> CAFÉ MOCHA5.5 CAFÉ MOCHA5.5
+2020-04-03 21:34:29,891 - WestVille -INFO - PASSED --> CHAI LATTE4.5 CHAI LATTE4.5
+2020-04-03 21:34:29,892 - WestVille -INFO - PASSED --> HEALTH TEA5 HEALTH TEA5
+2020-04-03 21:34:30,253 - WestVille -WARN - FAILED 
+2020-04-03 21:34:30,254 - WestVille -INFO - PASSED --> APPLE CIDER4 APPLE CIDER4
+2020-04-03 21:34:30,254 - WestVille -INFO - PASSED --> HOT CHOCOLATE4 HOT CHOCOLATE4
+2020-04-03 21:38:17,768 - WestVille -INFO - Getting the Today's Date
+2020-04-03 21:38:17,772 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 21:38:18,360 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 21:38:18,513 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 21:38:18,607 - WestVille -INFO - Creating Column 1
+2020-04-03 21:38:18,675 - WestVille -INFO - Creating Column 2
+2020-04-03 21:38:18,695 - WestVille -INFO - Initialing the WebPage
+2020-04-03 21:38:18,728 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 21:38:18,728 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 21:38:25,091 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 21:38:29,938 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 21:38:29,975 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 21:38:29,976 - WestVille -INFO - Starting to Loop
+2020-04-03 21:38:29,980 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 / HOMEMADE GRANOLA8
+2020-04-03 21:38:29,981 - WestVille -INFO - PASSED --> KALE SALAD12 / KALE SALAD12
+2020-04-03 21:38:29,981 - WestVille -INFO - PASSED --> AVOCADO TOAST13 / AVOCADO TOAST13
+2020-04-03 21:38:29,982 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 / WESTVILLE BURRITO13
+2020-04-03 21:38:29,983 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 / VEGGIE OMELETTE12
+2020-04-03 21:38:29,983 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 / EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-03 21:38:29,983 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 / FRESH SQUEEZED ORANGE JUICE6
+2020-04-03 21:38:29,984 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 / FRESH BREWED ICED TEA4
+2020-04-03 21:38:30,469 - WestVille -WARN - FAILED --> FRESH SQUEEZED LEMONADE4 / LEMONADE4
+2020-04-03 21:38:30,470 - WestVille -INFO - PASSED --> BLENDED MINT LEMONADE6 / BLENDED MINT LEMONADE6
+2020-04-03 21:38:30,470 - WestVille -INFO - PASSED --> ARNOLD PALMER4 / ARNOLD PALMER4
+2020-04-03 21:38:30,470 - WestVille -INFO - PASSED --> FRESH BREWED ICED COFFEE4 / FRESH BREWED ICED COFFEE4
+2020-04-03 21:38:30,471 - WestVille -INFO - PASSED --> ICED LATTE5.5 / ICED LATTE5.5
+2020-04-03 21:38:30,471 - WestVille -INFO - PASSED --> ICED CAPPUCCINO5.5 / ICED CAPPUCCINO5.5
+2020-04-03 21:38:30,471 - WestVille -INFO - PASSED --> ICED CAFÉ MOCHA5.5 / ICED CAFÉ MOCHA5.5
+2020-04-03 21:38:30,471 - WestVille -INFO - PASSED --> SODA3 / SODA3
+2020-04-03 21:38:30,472 - WestVille -INFO - PASSED --> LURISIA WATER5/8 / LURISIA WATER5/8
+2020-04-03 21:38:30,472 - WestVille -INFO - PASSED --> FRESH BREWED COFFEE3 / FRESH BREWED COFFEE3
+2020-04-03 21:38:30,473 - WestVille -INFO - PASSED --> AMERICANO3.5 / AMERICANO3.5
+2020-04-03 21:38:30,473 - WestVille -INFO - PASSED --> ESPRESSO / MACCHIATO3 / 3.5 / ESPRESSO / MACCHIATO3 / 3.5
+2020-04-03 21:38:30,473 - WestVille -INFO - PASSED --> LATTE / CAPPUCCINO5 / LATTE / CAPPUCCINO5
+2020-04-03 21:38:30,473 - WestVille -INFO - PASSED --> CAFÉ AU LAIT4 / CAFÉ AU LAIT4
+2020-04-03 21:38:30,474 - WestVille -INFO - PASSED --> CAFÉ MOCHA5.5 / CAFÉ MOCHA5.5
+2020-04-03 21:38:30,474 - WestVille -INFO - PASSED --> CHAI LATTE4.5 / CHAI LATTE4.5
+2020-04-03 21:38:30,474 - WestVille -INFO - PASSED --> HEALTH TEA5 / HEALTH TEA5
+2020-04-03 21:38:30,841 - WestVille -WARN - FAILED --> HOT TEA / HARNEY & SONS4 / HOT TEA (HARNEY & SONS)4
+2020-04-03 21:38:30,842 - WestVille -INFO - PASSED --> APPLE CIDER4 / APPLE CIDER4
+2020-04-03 21:38:30,842 - WestVille -INFO - PASSED --> HOT CHOCOLATE4 / HOT CHOCOLATE4
+2020-04-03 23:40:58,119 - WestVille -INFO - Getting the Today's Date
+2020-04-03 23:40:58,127 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-03 23:40:58,972 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-03 23:40:59,176 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-03 23:40:59,296 - WestVille -INFO - Creating Column 1
+2020-04-03 23:40:59,383 - WestVille -INFO - Creating Column 2
+2020-04-03 23:40:59,409 - WestVille -INFO - Initialing the WebPage
+2020-04-03 23:40:59,462 - WestVille -INFO - Getting the size of the Elements 
+2020-04-03 23:40:59,463 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-03 23:41:06,844 - WestVille -INFO - Test Succeseful Passed
+2020-04-03 23:41:10,436 - WestVille -INFO - Reading data from Excel Files
+2020-04-03 23:41:10,492 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-03 23:41:10,493 - WestVille -INFO - Starting to Loop
+2020-04-03 23:41:10,498 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 / HOMEMADE GRANOLA8
+2020-04-03 23:41:10,499 - WestVille -INFO - PASSED --> KALE SALAD12 / KALE SALAD12
+2020-04-03 23:41:10,500 - WestVille -INFO - PASSED --> AVOCADO TOAST13 / AVOCADO TOAST13
+2020-04-03 23:41:10,502 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 / WESTVILLE BURRITO13
+2020-04-03 23:41:10,502 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 / VEGGIE OMELETTE12
+2020-04-03 23:41:10,503 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 / EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-03 23:41:10,503 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 / FRESH SQUEEZED ORANGE JUICE6
+2020-04-03 23:41:10,505 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 / FRESH BREWED ICED TEA4
+2020-04-03 23:41:10,860 - WestVille -WARN - FAILED --> FRESH SQUEEZED LEMONADE4 / LEMONADE4
+2020-04-03 23:41:10,860 - WestVille -INFO - PASSED --> BLENDED MINT LEMONADE6 / BLENDED MINT LEMONADE6
+2020-04-03 23:41:10,860 - WestVille -INFO - PASSED --> ARNOLD PALMER4 / ARNOLD PALMER4
+2020-04-03 23:41:10,861 - WestVille -INFO - PASSED --> FRESH BREWED ICED COFFEE4 / FRESH BREWED ICED COFFEE4
+2020-04-03 23:41:10,861 - WestVille -INFO - PASSED --> ICED LATTE5.5 / ICED LATTE5.5
+2020-04-03 23:41:10,861 - WestVille -INFO - PASSED --> ICED CAPPUCCINO5.5 / ICED CAPPUCCINO5.5
+2020-04-03 23:41:10,862 - WestVille -INFO - PASSED --> ICED CAFÉ MOCHA5.5 / ICED CAFÉ MOCHA5.5
+2020-04-03 23:41:10,863 - WestVille -INFO - PASSED --> SODA3 / SODA3
+2020-04-03 23:41:10,864 - WestVille -INFO - PASSED --> LURISIA WATER5/8 / LURISIA WATER5/8
+2020-04-03 23:41:10,864 - WestVille -INFO - PASSED --> FRESH BREWED COFFEE3 / FRESH BREWED COFFEE3
+2020-04-03 23:41:10,865 - WestVille -INFO - PASSED --> AMERICANO3.5 / AMERICANO3.5
+2020-04-03 23:41:10,865 - WestVille -INFO - PASSED --> ESPRESSO / MACCHIATO3 / 3.5 / ESPRESSO / MACCHIATO3 / 3.5
+2020-04-03 23:41:10,865 - WestVille -INFO - PASSED --> LATTE / CAPPUCCINO5 / LATTE / CAPPUCCINO5
+2020-04-03 23:41:10,866 - WestVille -INFO - PASSED --> CAFÉ AU LAIT4 / CAFÉ AU LAIT4
+2020-04-03 23:41:10,866 - WestVille -INFO - PASSED --> CAFÉ MOCHA5.5 / CAFÉ MOCHA5.5
+2020-04-03 23:41:10,867 - WestVille -INFO - PASSED --> CHAI LATTE4.5 / CHAI LATTE4.5
+2020-04-03 23:41:10,868 - WestVille -INFO - PASSED --> HEALTH TEA5 / HEALTH TEA5
+2020-04-03 23:41:11,201 - WestVille -WARN - FAILED --> HOT TEA / HARNEY & SONS4 / HOT TEA (HARNEY & SONS)4
+2020-04-03 23:41:11,202 - WestVille -INFO - PASSED --> APPLE CIDER4 / APPLE CIDER4
+2020-04-03 23:41:11,203 - WestVille -INFO - PASSED --> HOT CHOCOLATE4 / HOT CHOCOLATE4
+2020-04-04 17:01:51,019 - WestVille -INFO - Getting the Today's Date
+2020-04-04 17:01:51,024 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-04 17:01:51,608 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-04 17:01:51,732 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-04 17:01:51,825 - WestVille -INFO - Creating Column 1
+2020-04-04 17:01:51,894 - WestVille -INFO - Creating Column 2
+2020-04-04 17:01:51,914 - WestVille -INFO - Initialing the WebPage
+2020-04-04 17:01:51,946 - WestVille -INFO - Getting the size of the Elements 
+2020-04-04 17:01:51,947 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-04 17:01:58,262 - WestVille -INFO - Test Succeseful Passed
+2020-04-04 17:02:00,742 - WestVille -INFO - Reading data from Excel Files
+2020-04-04 17:02:00,771 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-04 17:02:00,771 - WestVille -INFO - Starting to Loop
+2020-04-04 17:02:00,774 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 / HOMEMADE GRANOLA8
+2020-04-04 17:02:00,775 - WestVille -INFO - PASSED --> KALE SALAD12 / KALE SALAD12
+2020-04-04 17:02:00,775 - WestVille -INFO - PASSED --> AVOCADO TOAST13 / AVOCADO TOAST13
+2020-04-04 17:02:00,776 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 / WESTVILLE BURRITO13
+2020-04-04 17:02:00,777 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 / VEGGIE OMELETTE12
+2020-04-04 17:02:00,777 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 / EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-04 17:02:00,777 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 / FRESH SQUEEZED ORANGE JUICE6
+2020-04-04 17:02:00,777 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 / FRESH BREWED ICED TEA4
+2020-04-04 17:02:01,163 - WestVille -WARN - FAILED --> FRESH SQUEEZED LEMONADE4 / LEMONADE4
+2020-04-04 17:02:01,163 - WestVille -INFO - PASSED --> BLENDED MINT LEMONADE6 / BLENDED MINT LEMONADE6
+2020-04-04 17:02:01,164 - WestVille -INFO - PASSED --> ARNOLD PALMER4 / ARNOLD PALMER4
+2020-04-04 17:02:01,164 - WestVille -INFO - PASSED --> FRESH BREWED ICED COFFEE4 / FRESH BREWED ICED COFFEE4
+2020-04-04 17:02:01,164 - WestVille -INFO - PASSED --> ICED LATTE5.5 / ICED LATTE5.5
+2020-04-04 17:02:01,165 - WestVille -INFO - PASSED --> ICED CAPPUCCINO5.5 / ICED CAPPUCCINO5.5
+2020-04-04 17:02:01,165 - WestVille -INFO - PASSED --> ICED CAFÉ MOCHA5.5 / ICED CAFÉ MOCHA5.5
+2020-04-04 17:02:01,165 - WestVille -INFO - PASSED --> SODA3 / SODA3
+2020-04-04 17:02:01,166 - WestVille -INFO - PASSED --> LURISIA WATER5/8 / LURISIA WATER5/8
+2020-04-04 17:02:01,166 - WestVille -INFO - PASSED --> FRESH BREWED COFFEE3 / FRESH BREWED COFFEE3
+2020-04-04 17:02:01,166 - WestVille -INFO - PASSED --> AMERICANO3.5 / AMERICANO3.5
+2020-04-04 17:02:01,167 - WestVille -INFO - PASSED --> ESPRESSO / MACCHIATO3 / 3.5 / ESPRESSO / MACCHIATO3 / 3.5
+2020-04-04 17:02:01,167 - WestVille -INFO - PASSED --> LATTE / CAPPUCCINO5 / LATTE / CAPPUCCINO5
+2020-04-04 17:02:01,168 - WestVille -INFO - PASSED --> CAFÉ AU LAIT4 / CAFÉ AU LAIT4
+2020-04-04 17:02:01,168 - WestVille -INFO - PASSED --> CAFÉ MOCHA5.5 / CAFÉ MOCHA5.5
+2020-04-04 17:02:01,168 - WestVille -INFO - PASSED --> CHAI LATTE4.5 / CHAI LATTE4.5
+2020-04-04 17:02:01,168 - WestVille -INFO - PASSED --> HEALTH TEA5 / HEALTH TEA5
+2020-04-04 17:02:01,551 - WestVille -WARN - FAILED --> HOT TEA / HARNEY & SONS4 / HOT TEA (HARNEY & SONS)4
+2020-04-04 17:02:01,552 - WestVille -INFO - PASSED --> APPLE CIDER4 / APPLE CIDER4
+2020-04-04 17:02:01,552 - WestVille -INFO - PASSED --> HOT CHOCOLATE4 / HOT CHOCOLATE4
+2020-04-04 17:09:58,716 - WestVille -INFO - Getting the Today's Date
+2020-04-04 17:09:58,722 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-04 17:09:59,484 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-04 17:09:59,649 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-04 17:09:59,734 - WestVille -INFO - Creating Column 1
+2020-04-04 17:09:59,809 - WestVille -INFO - Creating Column 2
+2020-04-04 17:09:59,838 - WestVille -INFO - Initialing the WebPage
+2020-04-04 17:09:59,879 - WestVille -INFO - Getting the size of the Elements 
+2020-04-04 17:09:59,879 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-04 17:10:06,857 - WestVille -INFO - Test Succeseful Passed
+2020-04-04 17:10:09,363 - WestVille -INFO - Reading data from Excel Files
+2020-04-04 17:10:09,418 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-04 17:10:09,419 - WestVille -INFO - Starting to Loop
+2020-04-04 17:10:09,424 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 / HOMEMADE GRANOLA8
+2020-04-04 17:10:09,425 - WestVille -INFO - PASSED --> KALE SALAD12 / KALE SALAD12
+2020-04-04 17:10:09,425 - WestVille -INFO - PASSED --> AVOCADO TOAST13 / AVOCADO TOAST13
+2020-04-04 17:10:09,427 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 / WESTVILLE BURRITO13
+2020-04-04 17:10:09,427 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 / VEGGIE OMELETTE12
+2020-04-04 17:10:09,428 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 / EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-04 17:10:09,428 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 / FRESH SQUEEZED ORANGE JUICE6
+2020-04-04 17:10:09,429 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 / FRESH BREWED ICED TEA4
+2020-04-04 17:10:09,837 - WestVille -WARN - FAILED --> FRESH SQUEEZED LEMONADE4 / LEMONADE4
+2020-04-04 17:10:09,838 - WestVille -INFO - PASSED --> BLENDED MINT LEMONADE6 / BLENDED MINT LEMONADE6
+2020-04-04 17:10:09,838 - WestVille -INFO - PASSED --> ARNOLD PALMER4 / ARNOLD PALMER4
+2020-04-04 17:10:09,838 - WestVille -INFO - PASSED --> FRESH BREWED ICED COFFEE4 / FRESH BREWED ICED COFFEE4
+2020-04-04 17:10:09,839 - WestVille -INFO - PASSED --> ICED LATTE5.5 / ICED LATTE5.5
+2020-04-04 17:10:09,839 - WestVille -INFO - PASSED --> ICED CAPPUCCINO5.5 / ICED CAPPUCCINO5.5
+2020-04-04 17:10:09,839 - WestVille -INFO - PASSED --> ICED CAFÉ MOCHA5.5 / ICED CAFÉ MOCHA5.5
+2020-04-04 17:10:09,839 - WestVille -INFO - PASSED --> SODA3 / SODA3
+2020-04-04 17:10:09,840 - WestVille -INFO - PASSED --> LURISIA WATER5/8 / LURISIA WATER5/8
+2020-04-04 17:10:09,840 - WestVille -INFO - PASSED --> FRESH BREWED COFFEE3 / FRESH BREWED COFFEE3
+2020-04-04 17:10:09,840 - WestVille -INFO - PASSED --> AMERICANO3.5 / AMERICANO3.5
+2020-04-04 17:10:09,841 - WestVille -INFO - PASSED --> ESPRESSO / MACCHIATO3 / 3.5 / ESPRESSO / MACCHIATO3 / 3.5
+2020-04-04 17:10:09,841 - WestVille -INFO - PASSED --> LATTE / CAPPUCCINO5 / LATTE / CAPPUCCINO5
+2020-04-04 17:10:09,841 - WestVille -INFO - PASSED --> CAFÉ AU LAIT4 / CAFÉ AU LAIT4
+2020-04-04 17:10:09,842 - WestVille -INFO - PASSED --> CAFÉ MOCHA5.5 / CAFÉ MOCHA5.5
+2020-04-04 17:10:09,842 - WestVille -INFO - PASSED --> CHAI LATTE4.5 / CHAI LATTE4.5
+2020-04-04 17:10:09,842 - WestVille -INFO - PASSED --> HEALTH TEA5 / HEALTH TEA5
+2020-04-04 17:10:10,257 - WestVille -WARN - FAILED --> HOT TEA / HARNEY & SONS4 / HOT TEA (HARNEY & SONS)4
+2020-04-04 17:10:10,258 - WestVille -INFO - PASSED --> APPLE CIDER4 / APPLE CIDER4
+2020-04-04 17:10:10,258 - WestVille -INFO - PASSED --> HOT CHOCOLATE4 / HOT CHOCOLATE4
+2020-04-04 17:33:29,591 - WestVille -INFO - Getting the Today's Date
+2020-04-04 17:33:29,597 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-04 17:33:30,203 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-04 17:33:30,373 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-04 17:33:30,469 - WestVille -INFO - Creating Column 1
+2020-04-04 17:33:30,545 - WestVille -INFO - Creating Column 2
+2020-04-04 17:33:30,575 - WestVille -INFO - Initialing the WebPage
+2020-04-04 17:33:30,616 - WestVille -INFO - Getting the size of the Elements 
+2020-04-04 17:33:30,616 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-04 17:33:37,713 - WestVille -INFO - Test Succeseful Passed
+2020-04-04 17:33:40,983 - WestVille -INFO - Reading data from Excel Files
+2020-04-04 17:33:41,013 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-04 17:33:41,014 - WestVille -INFO - Starting to Loop
+2020-04-04 17:33:41,017 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 / HOMEMADE GRANOLA8
+2020-04-04 17:33:41,018 - WestVille -INFO - PASSED --> KALE SALAD12 / KALE SALAD12
+2020-04-04 17:33:41,019 - WestVille -INFO - PASSED --> AVOCADO TOAST13 / AVOCADO TOAST13
+2020-04-04 17:33:41,020 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 / WESTVILLE BURRITO13
+2020-04-04 17:33:41,021 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 / VEGGIE OMELETTE12
+2020-04-04 17:33:41,021 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 / EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-04 17:33:41,022 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 / FRESH SQUEEZED ORANGE JUICE6
+2020-04-04 17:33:41,022 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 / FRESH BREWED ICED TEA4
+2020-04-04 17:33:41,446 - WestVille -WARN - FAILED --> FRESH SQUEEZED LEMONADE4 / LEMONADE4
+2020-04-04 17:33:41,447 - WestVille -INFO - PASSED --> BLENDED MINT LEMONADE6 / BLENDED MINT LEMONADE6
+2020-04-04 17:33:41,447 - WestVille -INFO - PASSED --> ARNOLD PALMER4 / ARNOLD PALMER4
+2020-04-04 17:33:41,447 - WestVille -INFO - PASSED --> FRESH BREWED ICED COFFEE4 / FRESH BREWED ICED COFFEE4
+2020-04-04 17:33:41,447 - WestVille -INFO - PASSED --> ICED LATTE5.5 / ICED LATTE5.5
+2020-04-04 17:33:41,448 - WestVille -INFO - PASSED --> ICED CAPPUCCINO5.5 / ICED CAPPUCCINO5.5
+2020-04-04 17:33:41,448 - WestVille -INFO - PASSED --> ICED CAFÉ MOCHA5.5 / ICED CAFÉ MOCHA5.5
+2020-04-04 17:33:41,448 - WestVille -INFO - PASSED --> SODA3 / SODA3
+2020-04-04 17:33:41,449 - WestVille -INFO - PASSED --> LURISIA WATER5/8 / LURISIA WATER5/8
+2020-04-04 17:33:41,449 - WestVille -INFO - PASSED --> FRESH BREWED COFFEE3 / FRESH BREWED COFFEE3
+2020-04-04 17:33:41,450 - WestVille -INFO - PASSED --> AMERICANO3.5 / AMERICANO3.5
+2020-04-04 17:33:41,450 - WestVille -INFO - PASSED --> ESPRESSO / MACCHIATO3 / 3.5 / ESPRESSO / MACCHIATO3 / 3.5
+2020-04-04 17:33:41,451 - WestVille -INFO - PASSED --> LATTE / CAPPUCCINO5 / LATTE / CAPPUCCINO5
+2020-04-04 17:33:41,451 - WestVille -INFO - PASSED --> CAFÉ AU LAIT4 / CAFÉ AU LAIT4
+2020-04-04 17:33:41,451 - WestVille -INFO - PASSED --> CAFÉ MOCHA5.5 / CAFÉ MOCHA5.5
+2020-04-04 17:33:41,452 - WestVille -INFO - PASSED --> CHAI LATTE4.5 / CHAI LATTE4.5
+2020-04-04 17:33:41,452 - WestVille -INFO - PASSED --> HEALTH TEA5 / HEALTH TEA5
+2020-04-04 17:33:41,817 - WestVille -WARN - FAILED --> HOT TEA / HARNEY & SONS4 / HOT TEA (HARNEY & SONS)4
+2020-04-04 17:33:41,817 - WestVille -INFO - PASSED --> APPLE CIDER4 / APPLE CIDER4
+2020-04-04 17:33:41,817 - WestVille -INFO - PASSED --> HOT CHOCOLATE4 / HOT CHOCOLATE4
+2020-04-04 17:35:25,734 - WestVille -INFO - Getting the Today's Date
+2020-04-04 17:35:25,738 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-04 17:35:26,306 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-04 17:35:26,469 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-04 17:35:26,556 - WestVille -INFO - Creating Column 1
+2020-04-04 17:35:26,624 - WestVille -INFO - Creating Column 2
+2020-04-04 17:35:26,649 - WestVille -INFO - Initialing the WebPage
+2020-04-04 17:35:26,680 - WestVille -INFO - Getting the size of the Elements 
+2020-04-04 17:35:26,680 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-04 17:35:33,157 - WestVille -INFO - Test Succeseful Passed
+2020-04-04 17:35:37,652 - WestVille -INFO - Reading data from Excel Files
+2020-04-04 17:35:37,689 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-04 17:35:37,690 - WestVille -INFO - Starting to Loop
+2020-04-04 17:35:37,695 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 / HOMEMADE GRANOLA8
+2020-04-04 17:35:37,695 - WestVille -INFO - PASSED --> KALE SALAD12 / KALE SALAD12
+2020-04-04 17:35:37,696 - WestVille -INFO - PASSED --> AVOCADO TOAST13 / AVOCADO TOAST13
+2020-04-04 17:35:37,698 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 / WESTVILLE BURRITO13
+2020-04-04 17:35:37,698 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 / VEGGIE OMELETTE12
+2020-04-04 17:35:37,699 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 / EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-04 17:35:37,699 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 / FRESH SQUEEZED ORANGE JUICE6
+2020-04-04 17:35:37,700 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 / FRESH BREWED ICED TEA4
+2020-04-04 17:35:38,155 - WestVille -WARN - FAILED --> FRESH SQUEEZED LEMONADE4 / LEMONADE4
+2020-04-04 17:35:38,156 - WestVille -INFO - PASSED --> BLENDED MINT LEMONADE6 / BLENDED MINT LEMONADE6
+2020-04-04 17:35:38,156 - WestVille -INFO - PASSED --> ARNOLD PALMER4 / ARNOLD PALMER4
+2020-04-04 17:35:38,156 - WestVille -INFO - PASSED --> FRESH BREWED ICED COFFEE4 / FRESH BREWED ICED COFFEE4
+2020-04-04 17:35:38,157 - WestVille -INFO - PASSED --> ICED LATTE5.5 / ICED LATTE5.5
+2020-04-04 17:35:38,157 - WestVille -INFO - PASSED --> ICED CAPPUCCINO5.5 / ICED CAPPUCCINO5.5
+2020-04-04 17:35:38,157 - WestVille -INFO - PASSED --> ICED CAFÉ MOCHA5.5 / ICED CAFÉ MOCHA5.5
+2020-04-04 17:35:38,158 - WestVille -INFO - PASSED --> SODA3 / SODA3
+2020-04-04 17:35:38,158 - WestVille -INFO - PASSED --> LURISIA WATER5/8 / LURISIA WATER5/8
+2020-04-04 17:35:38,158 - WestVille -INFO - PASSED --> FRESH BREWED COFFEE3 / FRESH BREWED COFFEE3
+2020-04-04 17:35:38,158 - WestVille -INFO - PASSED --> AMERICANO3.5 / AMERICANO3.5
+2020-04-04 17:35:38,159 - WestVille -INFO - PASSED --> ESPRESSO / MACCHIATO3 / 3.5 / ESPRESSO / MACCHIATO3 / 3.5
+2020-04-04 17:35:38,159 - WestVille -INFO - PASSED --> LATTE / CAPPUCCINO5 / LATTE / CAPPUCCINO5
+2020-04-04 17:35:38,159 - WestVille -INFO - PASSED --> CAFÉ AU LAIT4 / CAFÉ AU LAIT4
+2020-04-04 17:35:38,159 - WestVille -INFO - PASSED --> CAFÉ MOCHA5.5 / CAFÉ MOCHA5.5
+2020-04-04 17:35:38,160 - WestVille -INFO - PASSED --> CHAI LATTE4.5 / CHAI LATTE4.5
+2020-04-04 17:35:38,160 - WestVille -INFO - PASSED --> HEALTH TEA5 / HEALTH TEA5
+2020-04-04 17:35:38,507 - WestVille -WARN - FAILED --> HOT TEA / HARNEY & SONS4 / HOT TEA (HARNEY & SONS)4
+2020-04-04 17:35:38,507 - WestVille -INFO - PASSED --> APPLE CIDER4 / APPLE CIDER4
+2020-04-04 17:35:38,508 - WestVille -INFO - PASSED --> HOT CHOCOLATE4 / HOT CHOCOLATE4
+2020-04-04 17:37:56,880 - WestVille -INFO - Getting the Today's Date
+2020-04-04 17:37:56,884 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-04 17:37:57,506 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-04 17:37:57,681 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-04 17:37:57,774 - WestVille -INFO - Creating Column 1
+2020-04-04 17:37:57,843 - WestVille -INFO - Creating Column 2
+2020-04-04 17:37:57,866 - WestVille -INFO - Initialing the WebPage
+2020-04-04 17:37:57,898 - WestVille -INFO - Getting the size of the Elements 
+2020-04-04 17:37:57,899 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-04 17:38:04,124 - WestVille -INFO - Test Succeseful Passed
+2020-04-04 17:38:06,730 - WestVille -INFO - Reading data from Excel Files
+2020-04-04 17:38:06,764 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-04 17:38:06,765 - WestVille -INFO - Starting to Loop
+2020-04-04 17:38:06,767 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 / HOMEMADE GRANOLA8
+2020-04-04 17:38:06,768 - WestVille -INFO - PASSED --> KALE SALAD12 / KALE SALAD12
+2020-04-04 17:38:06,768 - WestVille -INFO - PASSED --> AVOCADO TOAST13 / AVOCADO TOAST13
+2020-04-04 17:38:06,769 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 / WESTVILLE BURRITO13
+2020-04-04 17:38:06,769 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 / VEGGIE OMELETTE12
+2020-04-04 17:38:06,770 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 / EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-04 17:38:06,770 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 / FRESH SQUEEZED ORANGE JUICE6
+2020-04-04 17:38:06,770 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 / FRESH BREWED ICED TEA4
+2020-04-04 17:38:07,176 - WestVille -WARN - FAILED --> FRESH SQUEEZED LEMONADE4 / LEMONADE4
+2020-04-04 17:38:07,176 - WestVille -INFO - PASSED --> BLENDED MINT LEMONADE6 / BLENDED MINT LEMONADE6
+2020-04-04 17:38:07,176 - WestVille -INFO - PASSED --> ARNOLD PALMER4 / ARNOLD PALMER4
+2020-04-04 17:38:07,177 - WestVille -INFO - PASSED --> FRESH BREWED ICED COFFEE4 / FRESH BREWED ICED COFFEE4
+2020-04-04 17:38:07,177 - WestVille -INFO - PASSED --> ICED LATTE5.5 / ICED LATTE5.5
+2020-04-04 17:38:07,177 - WestVille -INFO - PASSED --> ICED CAPPUCCINO5.5 / ICED CAPPUCCINO5.5
+2020-04-04 17:38:07,178 - WestVille -INFO - PASSED --> ICED CAFÉ MOCHA5.5 / ICED CAFÉ MOCHA5.5
+2020-04-04 17:38:07,178 - WestVille -INFO - PASSED --> SODA3 / SODA3
+2020-04-04 17:38:07,178 - WestVille -INFO - PASSED --> LURISIA WATER5/8 / LURISIA WATER5/8
+2020-04-04 17:38:07,178 - WestVille -INFO - PASSED --> FRESH BREWED COFFEE3 / FRESH BREWED COFFEE3
+2020-04-04 17:38:07,179 - WestVille -INFO - PASSED --> AMERICANO3.5 / AMERICANO3.5
+2020-04-04 17:38:07,179 - WestVille -INFO - PASSED --> ESPRESSO / MACCHIATO3 / 3.5 / ESPRESSO / MACCHIATO3 / 3.5
+2020-04-04 17:38:07,179 - WestVille -INFO - PASSED --> LATTE / CAPPUCCINO5 / LATTE / CAPPUCCINO5
+2020-04-04 17:38:07,180 - WestVille -INFO - PASSED --> CAFÉ AU LAIT4 / CAFÉ AU LAIT4
+2020-04-04 17:38:07,180 - WestVille -INFO - PASSED --> CAFÉ MOCHA5.5 / CAFÉ MOCHA5.5
+2020-04-04 17:38:07,180 - WestVille -INFO - PASSED --> CHAI LATTE4.5 / CHAI LATTE4.5
+2020-04-04 17:38:07,180 - WestVille -INFO - PASSED --> HEALTH TEA5 / HEALTH TEA5
+2020-04-04 17:38:07,572 - WestVille -WARN - FAILED --> HOT TEA / HARNEY & SONS4 / HOT TEA (HARNEY & SONS)4
+2020-04-04 17:38:07,573 - WestVille -INFO - PASSED --> APPLE CIDER4 / APPLE CIDER4
+2020-04-04 17:38:07,573 - WestVille -INFO - PASSED --> HOT CHOCOLATE4 / HOT CHOCOLATE4
+2020-04-04 17:39:11,983 - WestVille -INFO - Getting the Today's Date
+2020-04-04 17:39:11,987 - WestVille -INFO - Creating Sheet Name with the date
+2020-04-04 17:39:12,597 - WestVille -INFO - Checking if the Sheet Exist or Not
+2020-04-04 17:39:12,759 - WestVille -INFO - Creating the Sheet with the New SheetName
+2020-04-04 17:39:12,848 - WestVille -INFO - Creating Column 1
+2020-04-04 17:39:12,914 - WestVille -INFO - Creating Column 2
+2020-04-04 17:39:12,939 - WestVille -INFO - Initialing the WebPage
+2020-04-04 17:39:12,970 - WestVille -INFO - Getting the size of the Elements 
+2020-04-04 17:39:12,970 - WestVille -INFO - Creating the Loop and writing the data from web into Excel file
+2020-04-04 17:39:19,346 - WestVille -INFO - Test Succeseful Passed
+2020-04-04 17:39:21,640 - WestVille -INFO - Reading data from Excel Files
+2020-04-04 17:39:21,674 - WestVille -INFO - Creating a Name with Today Date for Excel Sheet
+2020-04-04 17:39:21,674 - WestVille -INFO - Starting to Loop
+2020-04-04 17:39:21,678 - WestVille -INFO - PASSED --> HOMEMADE GRANOLA8 / HOMEMADE GRANOLA8
+2020-04-04 17:39:21,679 - WestVille -INFO - PASSED --> KALE SALAD12 / KALE SALAD12
+2020-04-04 17:39:21,679 - WestVille -INFO - PASSED --> AVOCADO TOAST13 / AVOCADO TOAST13
+2020-04-04 17:39:21,680 - WestVille -INFO - PASSED --> WESTVILLE BURRITO13 / WESTVILLE BURRITO13
+2020-04-04 17:39:21,681 - WestVille -INFO - PASSED --> VEGGIE OMELETTE12 / VEGGIE OMELETTE12
+2020-04-04 17:39:21,681 - WestVille -INFO - PASSED --> EGG SCRAMBLE PLATE OR SANDWICH8 / EGG SCRAMBLE PLATE OR SANDWICH8
+2020-04-04 17:39:21,682 - WestVille -INFO - PASSED --> FRESH SQUEEZED ORANGE JUICE6 / FRESH SQUEEZED ORANGE JUICE6
+2020-04-04 17:39:21,682 - WestVille -INFO - PASSED --> FRESH BREWED ICED TEA4 / FRESH BREWED ICED TEA4
+2020-04-04 17:39:22,103 - WestVille -WARN - FAILED --> FRESH SQUEEZED LEMONADE4 / LEMONADE4
+2020-04-04 17:39:22,104 - WestVille -INFO - PASSED --> BLENDED MINT LEMONADE6 / BLENDED MINT LEMONADE6
+2020-04-04 17:39:22,104 - WestVille -INFO - PASSED --> ARNOLD PALMER4 / ARNOLD PALMER4
+2020-04-04 17:39:22,104 - WestVille -INFO - PASSED --> FRESH BREWED ICED COFFEE4 / FRESH BREWED ICED COFFEE4
+2020-04-04 17:39:22,105 - WestVille -INFO - PASSED --> ICED LATTE5.5 / ICED LATTE5.5
+2020-04-04 17:39:22,105 - WestVille -INFO - PASSED --> ICED CAPPUCCINO5.5 / ICED CAPPUCCINO5.5
+2020-04-04 17:39:22,105 - WestVille -INFO - PASSED --> ICED CAFÉ MOCHA5.5 / ICED CAFÉ MOCHA5.5
+2020-04-04 17:39:22,105 - WestVille -INFO - PASSED --> SODA3 / SODA3
+2020-04-04 17:39:22,106 - WestVille -INFO - PASSED --> LURISIA WATER5/8 / LURISIA WATER5/8
+2020-04-04 17:39:22,106 - WestVille -INFO - PASSED --> FRESH BREWED COFFEE3 / FRESH BREWED COFFEE3
+2020-04-04 17:39:22,106 - WestVille -INFO - PASSED --> AMERICANO3.5 / AMERICANO3.5
+2020-04-04 17:39:22,107 - WestVille -INFO - PASSED --> ESPRESSO / MACCHIATO3 / 3.5 / ESPRESSO / MACCHIATO3 / 3.5
+2020-04-04 17:39:22,107 - WestVille -INFO - PASSED --> LATTE / CAPPUCCINO5 / LATTE / CAPPUCCINO5
+2020-04-04 17:39:22,107 - WestVille -INFO - PASSED --> CAFÉ AU LAIT4 / CAFÉ AU LAIT4
+2020-04-04 17:39:22,107 - WestVille -INFO - PASSED --> CAFÉ MOCHA5.5 / CAFÉ MOCHA5.5
+2020-04-04 17:39:22,108 - WestVille -INFO - PASSED --> CHAI LATTE4.5 / CHAI LATTE4.5
+2020-04-04 17:39:22,108 - WestVille -INFO - PASSED --> HEALTH TEA5 / HEALTH TEA5
+2020-04-04 17:39:22,479 - WestVille -WARN - FAILED --> HOT TEA / HARNEY & SONS4 / HOT TEA (HARNEY & SONS)4
+2020-04-04 17:39:22,480 - WestVille -INFO - PASSED --> APPLE CIDER4 / APPLE CIDER4
+2020-04-04 17:39:22,480 - WestVille -INFO - PASSED --> HOT CHOCOLATE4 / HOT CHOCOLATE4

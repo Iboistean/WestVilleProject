@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5890b57-68ed-47c2-86d0-413cc463d0b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZvHcYyIgJ1XFt05zVnKdZfOAza" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.westville.testCases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/ivanboistean/Documents/SeleniumProjects/TestNG.xml">
+    <configuration name="TC_ValidatingData_002" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WestVille" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.westville.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.westville.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.westville.testCases.TC_ValidatingData_002" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_ValidatingData_003" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WestVille" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.westville.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.westville.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.westville.testCases.TC_ValidatingData_003" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_ValidatingData_004" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WestVille" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.westville.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.westville.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.westville.testCases.TC_ValidatingData_004" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WestVille" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.westville.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.westville.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.westville.testCases.Test1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ivanboistean/Documents/SeleniumProjects/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WestVille" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/ivanboistean/Documents/SeleniumProjects/TestNG.xml" />
+        <item itemvalue="TestNG.TC_ValidatingData_004" />
+        <item itemvalue="TestNG.TC_ValidatingData_003" />
+        <item itemvalue="TestNG.TC_ValidatingData_002" />
+        <item itemvalue="TestNG.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5890b57-68ed-47c2-86d0-413cc463d0b1" name="Default Changelist" comment="" />
+      <created>1585712727582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585712727582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1372" height="1169" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585964037988">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="100" y="123" width="1372" height="1169" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.2560.1370@0.23.2560.1370" timestamp="1585964037988" />
+    <state x="589" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585798416471">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="589" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1370@0.23.2560.1370" timestamp="1585798416471" />
+    <state x="1318" y="403" key="#com.westville.utilities" timestamp="1585717905095">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="1318" y="403" key="#com.westville.utilities/0.23.2560.1370@0.23.2560.1370" timestamp="1585717905095" />
+    <state width="2123" height="292" key="GridCell.Tab.0.bottom" timestamp="1585964406156">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1398" height="54" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1585889531983" />
+    <state width="2123" height="292" key="GridCell.Tab.0.bottom/0.23.2560.1370@0.23.2560.1370" timestamp="1585964406156" />
+    <state width="2123" height="292" key="GridCell.Tab.0.center" timestamp="1585964406155">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1398" height="54" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1585889531982" />
+    <state width="2123" height="292" key="GridCell.Tab.0.center/0.23.2560.1370@0.23.2560.1370" timestamp="1585964406155" />
+    <state width="2123" height="292" key="GridCell.Tab.0.left" timestamp="1585964406154">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1398" height="54" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1585889531982" />
+    <state width="2123" height="292" key="GridCell.Tab.0.left/0.23.2560.1370@0.23.2560.1370" timestamp="1585964406154" />
+    <state width="2123" height="292" key="GridCell.Tab.0.right" timestamp="1585964406155">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1398" height="54" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1585889531983" />
+    <state width="2123" height="292" key="GridCell.Tab.0.right/0.23.2560.1370@0.23.2560.1370" timestamp="1585964406155" />
+    <state width="1398" height="45" key="GridCell.Tab.1.bottom" timestamp="1585887784905">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="45" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1585887784905" />
+    <state width="2142" height="313" key="GridCell.Tab.1.bottom/0.23.2560.1370@0.23.2560.1370" timestamp="1585854380874" />
+    <state width="1398" height="45" key="GridCell.Tab.1.center" timestamp="1585887784905">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="45" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1585887784905" />
+    <state width="2142" height="313" key="GridCell.Tab.1.center/0.23.2560.1370@0.23.2560.1370" timestamp="1585854380874" />
+    <state width="1398" height="45" key="GridCell.Tab.1.left" timestamp="1585887784904">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="45" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1585887784904" />
+    <state width="2142" height="313" key="GridCell.Tab.1.left/0.23.2560.1370@0.23.2560.1370" timestamp="1585854380873" />
+    <state width="1398" height="45" key="GridCell.Tab.1.right" timestamp="1585887784905">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="45" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1585887784905" />
+    <state width="2142" height="313" key="GridCell.Tab.1.right/0.23.2560.1370@0.23.2560.1370" timestamp="1585854380874" />
+    <state x="426" y="364" key="Maven.ArtifactSearchDialog" timestamp="1585794149513">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="426" y="364" key="Maven.ArtifactSearchDialog/0.23.2560.1370@0.23.2560.1370" timestamp="1585794149513" />
+  </component>
+</project>

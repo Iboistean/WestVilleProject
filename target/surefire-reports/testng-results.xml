@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WestVille" duration-ms="14695" started-at="2020-04-04T21:39:07Z" finished-at="2020-04-04T21:39:22Z">
+    <groups>
+    </groups>
+    <test name="FistTest" duration-ms="14695" started-at="2020-04-04T21:39:07Z" finished-at="2020-04-04T21:39:22Z">
+      <class name="com.westville.testCases.TC_GettingData_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.westville.testCases.TC_GettingData_001@3d8c7aca]" name="setup" is-config="true" duration-ms="3873" started-at="2020-04-04T21:39:08Z" finished-at="2020-04-04T21:39:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getWebData()[pri:0, instance:com.westville.testCases.TC_GettingData_001@3d8c7aca]" name="getWebData" duration-ms="7367" started-at="2020-04-04T21:39:11Z" finished-at="2020-04-04T21:39:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.westville.testCases.TC_GettingData_001@3d8c7aca]" name="tearDown" is-config="true" duration-ms="87" started-at="2020-04-04T21:39:19Z" finished-at="2020-04-04T21:39:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.westville.testCases.TC_GettingData_001 -->
+      <class name="com.westville.testCases.TC_ValidatingData_004">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.westville.testCases.TC_ValidatingData_004@5ebec15]" name="setup" is-config="true" duration-ms="2191" started-at="2020-04-04T21:39:19Z" finished-at="2020-04-04T21:39:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="compareFile()[pri:0, instance:com.westville.testCases.TC_ValidatingData_004@5ebec15]" name="compareFile" duration-ms="840" started-at="2020-04-04T21:39:21Z" finished-at="2020-04-04T21:39:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareFile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.westville.testCases.TC_ValidatingData_004@5ebec15]" name="tearDown" is-config="true" duration-ms="89" started-at="2020-04-04T21:39:22Z" finished-at="2020-04-04T21:39:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.westville.testCases.TC_ValidatingData_004 -->
+    </test> <!-- FistTest -->
+  </suite> <!-- WestVille -->
+</testng-results>

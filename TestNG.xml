@@ -1,0 +1,33 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="WestVille">
+
+    <listeners>
+        
+<listener class-name="com.westville.utilities.Reporting"></listener>
+
+    </listeners>
+
+
+
+
+    <test name="FistTest">
+
+    <parameter name="browser" value="chrome"></parameter>
+
+
+        <classes>
+
+
+
+             <class name="com.westville.testCases.TC_GettingData_001"></class>
+            <class name="com.westville.testCases.TC_ValidatingData_004"></class>
+
+
+        </classes>
+
+
+    
+       </test>
+</suite>
